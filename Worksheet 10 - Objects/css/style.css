@@ -1,0 +1,43 @@
+h1 {
+    font-weight: bold;
+    color: cadetblue;
+}
+
+h3 {
+    font-weight: bold;
+    color: cornflowerblue;
+}
+
+button {
+    font-size: 15px;
+    padding: 5px;
+}
+
+#title {
+    display: inline-block;
+    font-size: 20px;
+    font-weight: bold;
+    color: cornflowerblue;
+    width: 100px;
+}
+
+#reg {
+    display: inline-block;
+    font-weight: bold;
+    padding-bottom: 8px;
+    width: 120px;
+}
+
+#rDisplay {
+    font-weight: bold;
+}
+
+#col1 {
+    float: left;
+}
+
+#col2 {
+    margin-top: 2.32%;
+    margin-left: 5%;
+    float: left;
+}
