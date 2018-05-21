@@ -1,0 +1,85 @@
+#title
+{
+    color: cadetblue;
+    font-style: italic;
+    font-family: fantasy;
+}
+
+#SeriesName1
+{
+    float: left;
+}
+
+#SeriesName2
+{
+    margin-left: 50px;
+    float: left;
+}
+
+.picture
+{
+    height: 300px;
+}
+
+.name
+{
+    font-size: 20px;
+    color: cornflowerblue;
+}
+
+#List1
+{
+    width: 20%;
+    float: left;
+    margin-right: 100px;
+}
+
+#List2
+{
+    width: 20%;
+    float: left;
+    margin-right: 1000px;
+    
+}
+
+#List3
+{
+    width: 20%;
+    float: left;
+    margin-right: 100px;
+}
+
+#List4
+{
+    width: 20%;
+    float: left;
+    margin-right: 1000px;
+}
+
+.list2
+{
+    list-style: square;
+}
+
+.list4
+{
+    list-style: none;
+}
+
+.list41
+{
+    list-style: none;
+}
+
+.heading1
+{
+    color: maroon;
+    font-size: 30px;
+}
+
+.heading2
+{
+    color: maroon;
+    font-size: 20px;
+}
+

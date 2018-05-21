@@ -1,0 +1,14 @@
+#box
+{
+    width: 200px;
+    height: 100px;
+    background-color: rosybrown;
+}
+
+#box #text
+{
+    color: white; 
+    text-align: center;
+    vertical-align: middle;
+    line-height: 100px;
+}

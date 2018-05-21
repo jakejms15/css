@@ -1,0 +1,11 @@
+label {
+    display: inline-block;
+    width: 130px;
+    padding: 5px;
+}
+
+p {
+    display: none;
+    width: 300px;
+    text-align: center;
+}
